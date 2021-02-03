@@ -1,0 +1,346 @@
+Arica y Parinacota, Arica, -18.455, -70.29
+Arica y Parinacota, Camarones, -19.017, -69.867
+Arica y Parinacota, Putre, -18.2, -69.583
+Arica y Parinacota, General Lagos, -17.653, -69.635
+Tarapacá, Iquique, -20.244, -70.139
+Tarapacá, Alto Hospicio, -20.257, -70.022
+Tarapacá, Pozo Almonte, -20.291, -69.696
+Tarapacá, Camiña, -20.483, -69.367
+Tarapacá, Colchane, -19.284, -68.675
+Tarapacá, Huara, -19.809, -69.972
+Tarapacá, Pica, -20.483, -69.378
+Antofagasta, Antofagasta, -23.651, -70.395
+Antofagasta, Mejillones, -23.11, -70.456
+Antofagasta, Sierra Gorda, -22.898, -69.323
+Antofagasta, Taltal, -25.41, -70.489
+Antofagasta, Calama, -22.474, -68.924
+Antofagasta, Ollagüe, -21.233, -68.267
+Antofagasta, San Pedro de Atacama, -22.92, -68.21
+Antofagasta, Tocopilla, -22.082, -70.189
+Antofagasta, María Elena, -22.317, -69.677
+Atacama, Copiapó, -27.375, -70.329
+Atacama, Caldera, -27.066, -70.826
+Atacama, Tierra Amarilla, -27.473, -70.283
+Atacama, Chañaral, -26.346, -70.624
+Atacama, Diego de Almagro, -26.39, -70.052
+Atacama, Vallenar, -28.577, -70.77
+Atacama, Alto del Carmen, -28.749, -70.491
+Atacama, Freirina, -28.506, -71.076
+Atacama, Huasco, -28.456, -71.186
+Coquimbo, La Serena, -29.907, -71.247
+Coquimbo, Coquimbo, -29.971, -71.307
+Coquimbo, Andacollo, -30.23, -71.086
+Coquimbo, La Higuera, -29.5, -71.283
+Coquimbo, Paihuano, -30.038, -70.507
+Coquimbo, Vicuña, -30.019, -70.715
+Coquimbo, Illapel, -31.639, -71.179
+Coquimbo, Canela, -31.396, -71.419
+Coquimbo, Los Vilos, -31.915, -71.506
+Coquimbo, Salamanca, -31.78, -70.967
+Coquimbo, Ovalle, -30.599, -71.189
+Coquimbo, Combarbalá, -31.18, -71.004
+Coquimbo, Monte Patria, -30.775, -70.943
+Coquimbo, Punitaqui, -30.833, -71.26
+Coquimbo, Río Hurtado, -30.273, -70.667
+Valparaíso, Valparaíso, -33.05, -71.616
+Valparaíso, Casablanca, -33.325, -71.41
+Valparaíso, Concón, -32.96, -71.469
+Valparaíso, Juan Fernández, -33.633, -78.867
+Valparaíso, Puchuncaví, -32.748, -71.398
+Valparaíso, Quintero, -32.845, -71.467
+Valparaíso, Viña del Mar, -33.025, -71.515
+Valparaíso, Isla de Pascua, -27.1288, -109.36
+Valparaíso, Los Andes, -32.837, -70.597
+Valparaíso, Calle Larga, -32.8831, -70.4819
+Valparaíso, Rinconada, -32.8332, -70.6884
+Valparaíso, San Esteban, -32.805, -70.581
+Valparaíso, La Ligua, -32.3537, -71.2721
+Valparaíso, Cabildo, -32.409, -71.08
+Valparaíso, Papudo, -32.47, -71.381
+Valparaíso, Petorca, -32.29, -70.95
+Valparaíso, Zapallar, -32.568, -71.438
+Valparaíso, Quillota, -32.915, -71.264
+Valparaíso, Calera, -32.784, -71.204
+Valparaíso, Hijuelas, -32.855, -71.094
+Valparaíso, La Cruz, -32.824, -71.244
+Valparaíso, Nogales, -32.736, -71.208
+Valparaíso, San Antonio, -33.5947, -71.6075
+Valparaíso, Algarrobo, -33.3692, -71.6681
+Valparaíso, Cartagena, -33.5538, -71.6076
+Valparaíso, El Quisco, -33.3914, -71.6928
+Valparaíso, El Tabo, -33.48, -71.621
+Valparaíso, Santo Domingo, -33.708, -71.63
+Valparaíso, San Felipe, -32.75, -70.713
+Valparaíso, Catemu, -32.781, -70.969
+Valparaíso, Llay-Llay, -32.844, -70.957
+Valparaíso, Panquehue, -32.784, -70.837
+Valparaíso, Putaendo, -32.628, -70.716
+Valparaíso, Santa María, -32.7503, -70.667
+Valparaíso, Quilpué, -33.0475, -71.4425
+Valparaíso, Limache, -33.003, -71.261
+Valparaíso, Olmué, -33.009, -71.17
+Valparaíso, Villa Alemana, -33.066, -71.329
+Lib. Gral. Bernardo O'Higgins, Rancagua, -34.162, -70.741
+Lib. Gral. Bernardo O'Higgins, Codegua, -34.033, -70.667
+Lib. Gral. Bernardo O'Higgins, Coinco, -34.273, -70.953
+Lib. Gral. Bernardo O'Higgins, Coltauco, -34.297, -71.092
+Lib. Gral. Bernardo O'Higgins, Doñihue, -34.185, -70.884
+Lib. Gral. Bernardo O'Higgins, Graneros, -34.063, -70.721
+Lib. Gral. Bernardo O'Higgins, Las Cabras, -34.285, -71.31
+Lib. Gral. Bernardo O'Higgins, Machalí, -34.185, -70.662
+Lib. Gral. Bernardo O'Higgins, Malloa, -34.445, -70.945
+Lib. Gral. Bernardo O'Higgins, Mostazal, -33.977, -70.709
+Lib. Gral. Bernardo O'Higgins, Olivar, -34.214, -70.819
+Lib. Gral. Bernardo O'Higgins, Peumo, -34.389, -71.171
+Lib. Gral. Bernardo O'Higgins, Pichidegua, -34.357, -71.287
+Lib. Gral. Bernardo O'Higgins, Quinta de Tilcoco, -34.357, -70.969
+Lib. Gral. Bernardo O'Higgins, Rengo, -34.402, -70.856
+Lib. Gral. Bernardo O'Higgins, Requínoa, -34.283, -70.806
+Lib. Gral. Bernardo O'Higgins, San Vicente, -34.083, -71.75
+Lib. Gral. Bernardo O'Higgins, Pichilemu, -34.402, -72.009
+Lib. Gral. Bernardo O'Higgins, La Estrella, -34.2, -71.667
+Lib. Gral. Bernardo O'Higgins, Litueche, -34.119, -71.728
+Lib. Gral. Bernardo O'Higgins, Marchihue, -34.4, -71.633
+Lib. Gral. Bernardo O'Higgins, Navidad, -33.95, -71.833
+Lib. Gral. Bernardo O'Higgins, Paredones, -34.661, -71.894
+Lib. Gral. Bernardo O'Higgins, San Fernando, -34.584, -70.987
+Lib. Gral. Bernardo O'Higgins, Chépica, -34.733, -71.283
+Lib. Gral. Bernardo O'Higgins, Chimbarongo, -34.708, -71.042
+Lib. Gral. Bernardo O'Higgins, Lolol, -34.731, -71.636
+Lib. Gral. Bernardo O'Higgins, Nancagua, -34.649, -71.203
+Lib. Gral. Bernardo O'Higgins, Palmilla, -34.604, -71.358
+Lib. Gral. Bernardo O'Higgins, Peralillo, -34.483, -71.483
+Lib. Gral. Bernardo O'Higgins, Placilla, -34.633, -71.117
+Lib. Gral. Bernardo O'Higgins, Pumanque, -34.605, -71.644
+Lib. Gral. Bernardo O'Higgins, Santa Cruz, -34.631, -71.359
+Maule, Talca, -35.423, -71.657
+Maule, Constitución, -35.339, -72.414
+Maule, Curepto, -35.083, -72.017
+Maule, Empedrado, -35.591, -72.273
+Maule, Maule, -35.516, -71.572
+Maule, Pelarco, -35.378, -71.445
+Maule, Pencahue, -35.391, -71.8
+Maule, Río Claro, -35.217, -71.25
+Maule, San Clemente, -35.534, -71.486
+Maule, San Rafael, -35.317, -71.533
+Maule, Cauquenes, -35.964, -72.317
+Maule, Chanco, -35.729, -72.53
+Maule, Pelluhue, -35.814, -72.574
+Maule, Curicó, -34.976, -71.224
+Maule, Hualañé, -34.983, -71.817
+Maule, Licantén, -34.983, -72.0
+Maule, Molina, -35.09, -71.279
+Maule, Rauco, -34.929, -71.311
+Maule, Romeral, -34.967, -71.133
+Maule, Sagrada Familia, -35.0, -71.383
+Maule, Teno, -34.873, -71.162
+Maule, Vichuquén, -34.823, -72.035
+Maule, Linares, -35.85, -71.585
+Maule, Colbún, -35.7, -71.417
+Maule, Longaví, -35.966, -71.682
+Maule, Parral, -36.147, -71.822
+Maule, Retiro, -36.046, -71.759
+Maule, San Javier, -35.05, -71.467
+Maule, Villa Alegre, -35.665, -71.742
+Maule, Yerbas Buenas, -35.75, -71.583
+Ñuble, Chillán, -36.601, -72.109
+Ñuble, Bulnes, -36.739, -72.292
+Ñuble, Chillán Viejo, -36.633, -72.14
+Ñuble, El Carmen, -36.9, -72.033
+Ñuble, Pemuco, -36.978, -72.091
+Ñuble, Pinto, -36.7, -71.9
+Ñuble, Quillón, -36.738, -72.469
+Ñuble, San Ignacio, -36.8, -72.033
+Ñuble, Yungay, -37.1044, -71.9308
+Ñuble, Quirihue, -36.281, -72.545
+Ñuble, Cobquecura, -36.133, -72.783
+Ñuble, Coelemu, -36.485, -72.694
+Ñuble, Ninhue, -36.401, -72.397
+Ñuble, Portezuelo, -36.533, -72.433
+Ñuble, Ránquil, -36.65, -72.55
+Ñuble, Treguaco, -36.429, -72.665
+Ñuble, San Carlos, -36.422, -71.959
+Ñuble, Coihueco, -35.783, -72.433
+Ñuble, Ñiquén, -36.287, -71.899
+Ñuble, San Fabián, -36.554, -71.549
+Ñuble, San Nicolás, -36.883, -72.483
+Biobío, Concepción, -36.815, -73.029
+Biobío, Coronel, -36.982, -73.157
+Biobío, Chiguayante, -36.909, -73.028
+Biobío, Florida, -36.821, -72.662
+Biobío, Hualqui, -36.967, -72.933
+Biobío, Lota, -37.089, -73.155
+Biobío, Penco, -36.742, -72.998
+Biobío, San Pedro de La Paz, -36.864, -73.108
+Biobío, Santa Juana, -37.1793, -72.9353
+Biobío, Talcahuano, -36.736, -73.105
+Biobío, Tomé, -36.624, -72.95
+Biobío, Hualpén, -36.789, -73.11
+Biobío, Lebu, -37.606, -73.643
+Biobío, Arauco, -37.257, -73.284
+Biobío, Cañete, -37.8013, -73.409
+Biobío, Contulmo, -38.005, -73.225
+Biobío, Curanilahue, -37.472, -73.348
+Biobío, Los Álamos, -37.621, -73.456
+Biobío, Tirúa, -38.339, -73.484
+Biobío, Los Ángeles, -36.944, -72.351
+Biobío, Antuco, -37.327, -71.678
+Biobío, Cabrero, -37.039, -72.399
+Biobío, Laja, -37.267, -72.7
+Biobío, Mulchén, -37.715, -72.239
+Biobío, Nacimiento, -37.501, -72.676
+Biobío, Negrete, -37.583, -72.517
+Biobío, Quilaco, -37.68, -72.007
+Biobío, Quilleco, -37.467, -71.967
+Biobío, San Rosendo, -37.258, -72.716
+Biobío, Santa Bárbara, -37.663, -72.018
+Biobío, Tucapel, -37.633, -73.333
+Biobío, Yumbel, -37.096, -72.556
+Biobío, Alto Biobío, -38.619, -71.3243
+La Araucanía, Temuco, -38.727, -72.599
+La Araucanía, Carahue, -38.707, -73.16
+La Araucanía, Cunco, -38.93, -72.027
+La Araucanía, Curarrehue, -39.359, -71.588
+La Araucanía, Freire, -38.954, -72.622
+La Araucanía, Galvarino, -38.4, -72.783
+La Araucanía, Gorbea, -39.095, -72.672
+La Araucanía, Lautaro, -38.529, -72.427
+La Araucanía, Loncoche, -39.354, -72.628
+La Araucanía, Melipeuco, -38.843, -71.687
+La Araucanía, Nueva Imperial, -38.745, -72.95
+La Araucanía, Padre Las Casas, -38.766, -72.593
+La Araucanía, Perquenco, -38.417, -72.383
+La Araucanía, Pitrufquén, -38.983, -72.643
+La Araucanía, Pucón, -39.282, -71.954
+La Araucanía, Saavedra, -38.783, -73.4
+La Araucanía, Teodoro Schmidt, -38.967, -73.05
+La Araucanía, Toltén, -39.217, -73.217
+La Araucanía, Vilcún, -38.65, -72.233
+La Araucanía, Villarrica, -39.28, -72.218
+La Araucanía, Cholchol, -38.6, -72.85
+La Araucanía, Angol, -37.803, -72.702
+La Araucanía, Collipulli, -37.953, -72.432
+La Araucanía, Curacautín, -38.432, -71.89
+La Araucanía, Ercilla, -38.05, -72.383
+La Araucanía, Lonquimay, -38.433, -71.233
+La Araucanía, Los Sauces, -37.967, -72.833
+La Araucanía, Lumaco, -38.163, -72.904
+La Araucanía, Purén, -38.022, -73.07
+La Araucanía, Renaico, -37.667, -72.583
+La Araucanía, Traiguén, -38.248, -72.675
+La Araucanía, Victoria, -38.23, -72.343
+Los Ríos, Valdivia, -39.8, -73.233
+Los Ríos, Corral, -39.867, -73.433
+Los Ríos, Lanco, -39.447, -72.772
+Los Ríos, Los Lagos, -41.92, -72.142
+Los Ríos, Máfil, -39.65, -72.95
+Los Ríos, Mariquina, -40.133, -72.333
+Los Ríos, Paillaco, -40.068, -72.883
+Los Ríos, Panguipulli, -39.642, -72.34
+Los Ríos, La Unión, -40.292, -73.088
+Los Ríos, Futrono, -40.131, -72.396
+Los Ríos, Lago Ranco, -40.317, -72.5
+Los Ríos, Río Bueno, -40.338, -72.957
+Los Lagos, Puerto Montt, -41.454, -72.993
+Los Lagos, Calbuco, -41.758, -73.151
+Los Lagos, Cochamó, -41.5, -72.317
+Los Lagos, Fresia, -41.153, -73.42
+Los Lagos, Frutillar, -41.117, -73.1
+Los Lagos, Los Muermos, -41.391, -73.465
+Los Lagos, Llanquihue, -41.266, -73.012
+Los Lagos, Maullín, -41.618, -73.598
+Los Lagos, Puerto Varas, -41.323, -72.97
+Los Lagos, Castro, -42.478, -73.779
+Los Lagos, Ancud, -41.877, -73.814
+Los Lagos, Chonchi, -42.626, -73.781
+Los Lagos, Curaco de Vélez, -42.434, -73.582
+Los Lagos, Dalcahue, -42.374, -73.651
+Los Lagos, Puqueldón, -42.604, -73.684
+Los Lagos, Queilén, -42.874, -73.47
+Los Lagos, Quellón, -43.121, -73.608
+Los Lagos, Quemchi, -42.142, -73.478
+Los Lagos, Quinchao, -42.479, -73.497
+Los Lagos, Osorno, -40.574, -73.126
+Los Lagos, Puerto Octay, -40.967, -72.9
+Los Lagos, Purranque, -40.909, -73.175
+Los Lagos, Puyehue, -40.717, -72.321
+Los Lagos, Río Negro, -41.967, -72.45
+Los Lagos, San Juan de la Costa, -40.501, -73.392
+Los Lagos, San Pablo, -40.4, -73.017
+Los Lagos, Chaitén, -42.899, -72.667
+Los Lagos, Futaleufú, -43.168, -71.848
+Los Lagos, Hualaihué, -41.992, -72.667
+Los Lagos, Palena, -43.623, -71.804
+Aysén del Gral. C. Ibáñez del Campo, Coihaique, -45.564, -72.065
+Aysén del Gral. C. Ibáñez del Campo, Lago Verde, -44.219, -71.839
+Aysén del Gral. C. Ibáñez del Campo, Aysén, -45.412, -72.698
+Aysén del Gral. C. Ibáñez del Campo, Cisnes, -44.751, -72.697
+Aysén del Gral. C. Ibáñez del Campo, Guaitecas, -43.884, -73.95
+Aysén del Gral. C. Ibáñez del Campo, Cochrane, -47.267, -72.55
+Aysén del Gral. C. Ibáñez del Campo, O'Higgins, -48.8, -73.183
+Aysén del Gral. C. Ibáñez del Campo, Tortel, -47.781, -73.512
+Aysén del Gral. C. Ibáñez del Campo, Chile Chico, -46.55, -71.733
+Aysén del Gral. C. Ibáñez del Campo, Río Ibáñez, -46.255, -71.95
+Magallanes y Antártica Chilena, Punta Arenas, -53.148, -70.907
+Magallanes y Antártica Chilena, Laguna Blanca, -52.267, -71.183
+Magallanes y Antártica Chilena, Río Verde, -52.628, -71.477
+Magallanes y Antártica Chilena, San Gregorio, -52.567, -70.067
+Magallanes y Antártica Chilena, Cabo de Hornos, -54.947, -67.607
+Magallanes y Antártica Chilena, Antártica, -75.0, -71.5
+Magallanes y Antártica Chilena, Porvenir, -53.298, -70.385
+Magallanes y Antártica Chilena, Primavera, -52.886, -69.353
+Magallanes y Antártica Chilena, Timaukel, -53.672, -69.71
+Magallanes y Antártica Chilena, Natales, -51.733, -72.517
+Magallanes y Antártica Chilena, Torres del Paine, -50.982, -72.499
+Metropolitana de Santiago, Santiago, -33.4372, -70.6572
+Metropolitana de Santiago, Cerrillos, -33.5, -70.7167
+Metropolitana de Santiago, Cerro Navia, -33.422, -70.735
+Metropolitana de Santiago, Conchalí, -33.38, -70.675
+Metropolitana de Santiago, El Bosque, -33.567, -70.675
+Metropolitana de Santiago, Estación Central, -33.459, -70.699
+Metropolitana de Santiago, Huechuraba, -33.368, -70.634
+Metropolitana de Santiago, Independencia, -33.413, -70.666
+Metropolitana de Santiago, La Cisterna, -33.529, -70.663
+Metropolitana de Santiago, La Florida, -33.525, -70.538
+Metropolitana de Santiago, La Granja, -33.5333, -70.625
+Metropolitana de Santiago, La Pintana, -33.583, -70.634
+Metropolitana de Santiago, La Reina, -33.443, -70.532
+Metropolitana de Santiago, Las Condes, -33.4167, -70.5833
+Metropolitana de Santiago, Lo Barnechea, -33.35, -70.5167
+Metropolitana de Santiago, Lo Espejo, -33.522, -70.687
+Metropolitana de Santiago, Lo Prado, -33.445, -70.726
+Metropolitana de Santiago, Macul, -33.487, -70.604
+Metropolitana de Santiago, Maipú, -33.5167, -70.7667
+Metropolitana de Santiago, Ñuñoa, -33.454, -70.604
+Metropolitana de Santiago, Pedro Aguirre Cerda, -33.4663, -70.6337
+Metropolitana de Santiago, Peñalolén, -33.4862, -70.5333
+Metropolitana de Santiago, Providencia, -33.435, -70.616
+Metropolitana de Santiago, Pudahuel, -33.4333, -70.7167
+Metropolitana de Santiago, Quilicura, -33.361, -70.729
+Metropolitana de Santiago, Quinta Normal, -33.427, -70.699
+Metropolitana de Santiago, Recoleta, -33.406, -70.64
+Metropolitana de Santiago, Renca, -33.398, -70.723
+Metropolitana de Santiago, San Joaquín, -33.491, -70.628
+Metropolitana de Santiago, San Miguel, -33.4858, -70.6494
+Metropolitana de Santiago, San Ramón, -33.5333, -70.6417
+Metropolitana de Santiago, Vitacura, -33.4, -70.6
+Metropolitana de Santiago, Puente Alto, -33.616, -70.57
+Metropolitana de Santiago, Pirque, -33.65, -70.564
+Metropolitana de Santiago, San José de Maipo, -33.644, -70.353
+Metropolitana de Santiago, Colina, -33.194, -70.668
+Metropolitana de Santiago, Lampa, -33.286, -70.878
+Metropolitana de Santiago, Til til, -33.085, -70.925
+Metropolitana de Santiago, San Bernardo, -33.582, -70.687
+Metropolitana de Santiago, Buin, -33.728, -70.739
+Metropolitana de Santiago, Calera de Tango, -33.628, -70.785
+Metropolitana de Santiago, Paine, -33.812, -70.723
+Metropolitana de Santiago, Melipilla, -33.689, -71.208
+Metropolitana de Santiago, Alhué, -34.033, -71.1
+Metropolitana de Santiago, Curacaví, -33.399, -71.137
+Metropolitana de Santiago, María Pinto, -33.515, -71.119
+Metropolitana de Santiago, San Pedro, -33.9, -71.467
+Metropolitana de Santiago, Talagante, -33.667, -70.931
+Metropolitana de Santiago, El Monte, -33.684, -71.017
+Metropolitana de Santiago, Isla de Maipo, -33.754, -70.886
+Metropolitana de Santiago, Padre Hurtado, -33.576, -70.8
+Metropolitana de Santiago, Peñaflor, -33.6063, -70.8765
